@@ -1,4 +1,4 @@
-package dns
+paket  dns :building_construction:
 
 import (
 	"crypto/dsa"
